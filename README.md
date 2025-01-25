@@ -1,2 +1,0 @@
-# Lunassynergy
-A crossplay server
